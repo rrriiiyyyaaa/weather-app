@@ -6,5 +6,6 @@ Here are some screenshots:
 
 ![Screenshot (267)](https://user-images.githubusercontent.com/56023007/131250870-6f5d4ad8-bcf1-451c-b054-e572b65f4f61.png)
 
-![Uploading Screenshot (268).png…]()
+![Screenshot (268)](https://user-images.githubusercontent.com/56023007/131251029-8cc51958-4dde-4ac3-ace1-608cb9abb128.png)
+
 
