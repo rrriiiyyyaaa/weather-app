@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="weather.css">
+</head>
+<body>
+    <div class="app-main">
+        <div class="searchInputBox">
+            <input type="text" id="input-box" class="input-box" placeholder="Enter City Name..." autocomplete="off">
+        </div>
+        
+        <div class="weather-body">
+            <div class="location-details">
+                <div class="city" id="city">Delhi, IN</div>
+                <div class="date" id="date">29th August  (Sunday), 2020</div>
+            </div>
+
+            <div class="weather-status">
+                <div class="temp" id="temp">32&deg;C</div>
+                <div class="min-max" id="min-max">28&deg;C (min) / 33&deg;C (max)</div>
+                <div class="weather" id="weather">Haze</div>
+                <div class="img"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="weather.js"></script>
+    
+</body>
+</html>
